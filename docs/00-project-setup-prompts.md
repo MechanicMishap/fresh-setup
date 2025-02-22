@@ -178,6 +178,8 @@ Specialized frameworks cover game development, data science, testing, and deploy
 ===============================================
 
 # Documentation Repo
+- Convex Dev / React Platform / https://www.convex.dev/
+   - https://docs.convex.dev/ai/using-cursor?dub_id=4QyoGc7KxJnenLn4#add-convex-cursorrules
 - Github helpful cursor rules / https://github.com/PatrickJS/awesome-cursorrules?tab=readme-ov-file
 - cursor directory / https://cursor.directory/
 - JS Package search / https://www.npmjs.com/
